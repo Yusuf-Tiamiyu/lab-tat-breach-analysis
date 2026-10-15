@@ -1,0 +1,10 @@
+site,code,is_hub,is_24h,refers_to
+Central,8101,True,True,Central
+Harbour,8102,True,True,Harbour
+Northgate,8103,False,True,Central
+Riverside,8104,False,False,Central
+Eastfield,8105,False,False,Central
+Hilltop,8106,False,False,Harbour
+Lakeside,8107,False,False,Central
+Westbrook,8108,False,False,Harbour
+Parkview,8109,False,False,Harbour

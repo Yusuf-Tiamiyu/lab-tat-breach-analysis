@@ -1,0 +1,34 @@
+test_name,department,target_hours,hub_only
+Full Blood Count,Haematology,4,False
+ESR,Haematology,4,False
+Blood Film,Haematology,24,False
+Coagulation Profile,Haematology,6,True
+Haemoglobin Genotype,Haematology,24,False
+Blood Group,Haematology,4,False
+Fasting Blood Sugar,Chemistry,4,False
+"Electrolytes, Urea, Creatinine",Chemistry,6,False
+Liver Function Test,Chemistry,6,False
+Lipid Profile,Chemistry,6,False
+HbA1c,Chemistry,24,False
+Uric Acid,Chemistry,6,False
+Serum Calcium,Chemistry,6,False
+Thyroid Function Test,Immunoassay,24,True
+PSA,Immunoassay,24,True
+Vitamin D,Immunoassay,48,True
+Prolactin,Immunoassay,24,True
+Testosterone,Immunoassay,24,True
+Troponin I,Immunoassay,2,True
+HIV Screening,Serology,6,False
+Hepatitis B Surface Antigen,Serology,6,False
+Hepatitis C Antibody,Serology,24,False
+Widal Test,Serology,6,False
+Malaria Parasite,Serology,4,False
+H. pylori Antigen,Serology,24,False
+Urinalysis,Microbiology,4,False
+Urine Culture,Microbiology,72,True
+Blood Culture,Microbiology,120,True
+Stool Culture,Microbiology,72,True
+High Vaginal Swab Culture,Microbiology,72,True
+Hepatitis B Viral Load,Molecular,96,True
+HIV Viral Load,Molecular,96,True
+SARS-CoV-2 PCR,Molecular,24,True
